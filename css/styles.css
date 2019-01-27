@@ -1,1 +1,13 @@
-body {background-color: #ccff99;}
+body {
+  background-color: #e6ffcc;
+}
+
+img {
+  border: 0;
+  max-width: 45%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
