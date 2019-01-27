@@ -19,12 +19,12 @@ Let me know if you have any problems!
 
 ## Technologies Used
 
-HTML
-CSS
+HTML,
+CSS,
 Bootstrap
 
 ### License
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2019 **_{Lela Smith}_**
+Copyright (c) 2019 **_Lela Smith_**
