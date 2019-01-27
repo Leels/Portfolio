@@ -18,6 +18,21 @@ img {
   width: 50%;
 }
 
+.langHTML {
+  font-weight: bold;
+  color: red;
+}
+
+.langCSS {
+  font-weight: bold;
+  color: purple;
+}
+
+.langBooststrap {
+  font-weight: bold;
+  color: green;
+}
+
 .row {
   margin: 8px -16px;
 }
