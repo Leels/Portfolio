@@ -1,13 +1,38 @@
 body {
   background-color: #e6ffcc;
+  padding: 20px;
+}
+
+.main {
+  max-width: 1000px;
+  margin: auto;
 }
 
 img {
   border: 0;
-  max-width: 30%;
+  max-width: 40%;
   height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+.content {
+  padding: 10px;
 }
